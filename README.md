@@ -1,7 +1,4 @@
 ## BEM VINDO AO MEU GITHUB
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-I am an ambitious problem solver who always wants to do as great as possible, whether professionally or personally. I am easygoing, knowing how to work and interact with people of all levels. I can take responsibility for my work. I always look forward, to searching for knowledge and working towards making a good impact on the future.
 
 - 🔭 I am currently working at Sankhya university.
 - 👨‍💻 Always in search of knowledge.
